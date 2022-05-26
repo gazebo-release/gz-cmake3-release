@@ -14,8 +14,8 @@ Package: libgz-cmake3-dev
 Architecture: any
 Section: libdevel
 Depends: cmake, ${misc:Depends}
-Breaks: libignition-cmake-dev (<= 2.10.0-2)
-Replaces: libignition-cmake-dev (<= 2.10.0-2)
+Breaks: libignition-cmake-dev (<= 3.0.0)
+Replaces: libignition-cmake-dev (<= 3.0.0)
 Multi-Arch: same
 Description: Gazebo Robotics CMake Library - Development files
  CMake modules to be used by the Gazebo projects.
