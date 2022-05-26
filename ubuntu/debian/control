@@ -1,4 +1,4 @@
-Source: gz-cmake3
+Source: ignition-cmake3
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
 Section: science
 Priority: optional
