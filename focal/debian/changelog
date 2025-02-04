@@ -1,3 +1,9 @@
+gz-cmake3 (3.5.4-1~focal) focal; urgency=medium
+
+  * gz-cmake3 3.5.4-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Tue, 04 Feb 2025 14:13:29 -0600
+
 gz-cmake3 (3.5.3-1~focal) focal; urgency=medium
 
   * gz-cmake3 3.5.3-1 release
