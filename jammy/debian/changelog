@@ -1,3 +1,9 @@
+gz-cmake3 (3.5.5-1~jammy) jammy; urgency=medium
+
+  * gz-cmake3 3.5.5-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Fri, 28 Feb 2025 10:45:23 -0800
+
 gz-cmake3 (3.5.5~pre1-1~jammy) jammy; urgency=medium
 
   * gz-cmake3 3.5.5~pre1-1 release
