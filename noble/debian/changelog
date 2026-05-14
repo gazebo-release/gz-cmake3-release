@@ -1,3 +1,9 @@
+gz-cmake3 (3.6.0-1~noble) noble; urgency=medium
+
+  * gz-cmake3 3.6.0-1 release
+
+ -- Steve Peters <scpeters@intrinsic.ai>  Thu, 14 May 2026 18:29:53 +0000
+
 gz-cmake3 (3.5.6-1~noble) noble; urgency=medium
 
   * gz-cmake3 3.5.6-1 release
